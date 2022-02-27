@@ -1,0 +1,759 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apology for the service of love, and the people that own it, commonly called, the family of love. Being a plain, but groundly discourse, about the right and true Christian religion : set forth dialogue-wise between the citizen, the countreyman, and an exile : as the same was presented to the high court of Parliament, in the time of Queen Elizabeth; and penned by one of her Majesties menial servants, who was in no small esteem with her, for his wisdom and godliness. With another short confession of their faith, made by the same people. And finally some notes &amp; collections, gathered by a private hand out of H.N. upon, or concerning the eight beatitudes.</title>
+            <author>Niclaes, Hendrik, 1502?-1580?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89682</idno>
+            <idno type="STC">Wing N1122</idno>
+            <idno type="STC">Thomason E1610_1</idno>
+            <idno type="STC">ESTC R210332</idno>
+            <idno type="EEBO-CITATION">99869141</idno>
+            <idno type="PROQUEST">99869141</idno>
+            <idno type="VID">170674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170674)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 255:E1610[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apology for the service of love, and the people that own it, commonly called, the family of love. Being a plain, but groundly discourse, about the right and true Christian religion : set forth dialogue-wise between the citizen, the countreyman, and an exile : as the same was presented to the high court of Parliament, in the time of Queen Elizabeth; and penned by one of her Majesties menial servants, who was in no small esteem with her, for his wisdom and godliness. With another short confession of their faith, made by the same people. And finally some notes &amp; collections, gathered by a private hand out of H.N. upon, or concerning the eight beatitudes.</title>
+                  <author>Niclaes, Hendrik, 1502?-1580?</author>
+               </titleStmt>
+               <extent>[4], 67, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black-spread-Eagle at the West end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H.N. = Henrik Niclaes.</note>
+                  <note>Annotation on Thomason copy: "may 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Familists --  Great Britain --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170674:1" rendition="simple:additions"/>
+            <p>AN APOLOGY FOR <hi>The Service of Love,</hi> AND The People that own it, common<g ref="char:EOLhyphen"/>ly called, <hi>The Family of Love.</hi>
+            </p>
+            <p>Being a plain, but groundly Diſcourſe, a<g ref="char:EOLhyphen"/>bout the Right and True Chriſtian Religion: Set forth Dialogue-wiſe between the <hi>Citizen,</hi> the <hi>Countreyman,</hi> and an <hi>Exile:</hi> as the ſame was pre<g ref="char:EOLhyphen"/>ſented to the High Court of Parliament, in the time of Queen <hi>Elizabeth;</hi> and penned by one of her Majeſties menial ſervants, who was in no ſmall eſteem with Her, for his known wiſdom and godlineſs.</p>
+            <p>With another ſhort Confeſſion of their Faith, made by the ſame people. And finally ſome Notes &amp; Collections, gathered by a private hand out of <hi>H.N.</hi> upon, or concerning the eight Beati<g ref="char:EOLhyphen"/>tudes.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the <hi>Black-ſpread-Eagle</hi> at the Weſt end of <hi>Pauls,</hi> 1656.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:170674:2"/>
+            <pb facs="tcp:170674:2"/>
+            <head>To all courteous Cour<g ref="char:EOLhyphen"/>tiers, the <hi>Exile</hi> ſen<g ref="char:EOLhyphen"/>deth greeting.</head>
+            <lg>
+               <l>YOu courtly Courtiers, courteous by kind,</l>
+               <l>Lowly, wiſe, and pleaſant in mind.</l>
+               <l>This little Device from the ground of his heart</l>
+               <l>The <hi>Exile</hi> hath ſent you, take it in good part:</l>
+               <l>And when you have read it, peruſe it again,</l>
+               <l>For the matter is weighty, true, and eke plain.</l>
+               <l>Weigh well the fire, do nothing in haſt,</l>
+               <l>And meaſure you likewiſe the wind as it blows:</l>
+               <l>So call me again the day that is paſt,</l>
+               <l>For that is the right way Gods wiſdome to know.</l>
+               <l>Both ear, yea and heart, ſo that ye prepare,</l>
+               <l>O ye lovely Courtiers, courteous all,</l>
+               <l>Theſe things for to mark, which I now declare,</l>
+               <l>Left Gods wrath once kindled, unawares hap to fall.</l>
+               <l>Where godly Love as a marriage weed,</l>
+               <l>In lowly hearts works all things new,</l>
+               <l>There is the truth expreſt indeed</l>
+               <l>In holy life, it is very true.</l>
+               <l>The head of the Spring where ever it lye,</l>
+               <l>If it be kept ſweet pleaſant and clean;</l>
+               <l>From thence then all Rivers, deſcending thereby,</l>
+               <l>Much ſweetneſs of taſte, ſhall there through obtain.</l>
+               <l>Firſt ſound ye the water, and meaſure the wind,</l>
+               <l>Then mark well the matter, and ſup up the mind;</l>
+               <l>The <hi>Libertines</hi> herein, are ſet out full plain:</l>
+               <l>So are <hi>Chriſtians</hi> likewiſe, that in peace would remain,</l>
+               <l>But when ye perceive who the <hi>Libertines</hi> be,</l>
+               <l>Then wiſh that all <hi>Chriſtians</hi> might be ſet free.</l>
+               <l>
+                  <pb facs="tcp:170674:3"/>Gods bleſſing ſhall fall, vpon their heads full ſure,</l>
+               <l>That firſt ſhall begin the ſame to procure</l>
+               <l>By way of Petition, when they ſhall think time,</l>
+               <l>And God ſhall the Rulers hearts thereto incline.</l>
+               <l>God ſave the Queens Majeſty, and give her the might,</l>
+               <l>Good <hi>Chriſtians</hi> to defend, and ſubdue <hi>Libertines</hi> quite.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>The Argument.</head>
+            <lg>
+               <l>IN few words, the <hi>Exile</hi> hereafter doth approve,</l>
+               <l>That wonderful and neceſſary, is the ſervice of Love.</l>
+               <l>If you weigh well his words, you ſhall eaſily eſpy;</l>
+               <l>That among ſome of our learned there is a wedg awry,</l>
+               <l>But to redreſſe the ſame, that can no earthly man do,</l>
+               <l>Each man to amend one, is the next way thereto.</l>
+               <l>But yet by no other mean, may a man thereto attain,</l>
+               <l>Save alone by the mean expreſt in Loves ſervice certain.</l>
+               <l>And the chief of all vertues he doth likewiſe approve,</l>
+               <l>To be a meek minded ſpirit, faſt grounded in Love.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:170674:3"/>
+            <head>An Apology for the Service of <hi>Love.</hi>
+            </head>
+            <argument>
+               <p>A Marvellous Matter manifeſted by an <hi>Exile,</hi> through a ſhort Communication, in manner of a Dialogue: And pointing as it were with his finger, upon an unconfutable truth: He giveth to all Courteous hearts, that ſhall vouchſafe adviſedly to read the ſame, great cauſe of care<g ref="char:EOLhyphen"/>ful Conſideration.</p>
+            </argument>
+            <stage>The <hi>Citizen,</hi> the <hi>Countrey</hi> man and the <hi>Exile,</hi> Interlocutors.</stage>
+            <sp>
+               <speaker>And firſt, the <hi>Citizen</hi> to the <hi>Countrey-man.</hi>
+               </speaker>
+               <p>THou knoweſt right well Coun<g ref="char:EOLhyphen"/>trey-man, that the Citizen hath oft times need of the Countrey-man, both for clothing, victuals, and other neceſſaries; wherefore I pray thee, let us two hold friendſhip ſtill, and
+<pb n="2" facs="tcp:170674:4"/>
+be merty together in honeſt paſtime, like as we alwaies in times paſt have done: But now I pray thee Countrey-man, tell me, how happeneth it, that thou art ſo ſad now a daies, over thou waſt wont to be?</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>I have not any cauſe to be merry, conſi<g ref="char:EOLhyphen"/>dering the ſtate of the world, and dange<g ref="char:EOLhyphen"/>rous time that now is.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Why Countryman of fellowſhip tell me the cauſe, is it for want of worldly things? or elſe what is the matter? ſhew me, for thou knoweſt me to be thy friend; yea, in very deed, I am thy neer kinſman; there<g ref="char:EOLhyphen"/>fore thou mayſt be bold to expreſs thy mind freely unto me, and I ſhall truly, and truſtily keep thy Counſel; for I in<g ref="char:EOLhyphen"/>tend to be merry and follow my trade, and not to buſie my ſelf in other mens matters.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>I ſhall then tell thee, as unto my very friend, the cauſe of my heavineſs: when
+<pb n="3" facs="tcp:170674:4"/>
+I conſider what great cauſe we have to be thankful to God for his manifold good<g ref="char:EOLhyphen"/>neſs, mercifulneſs, and great benefits ex<g ref="char:EOLhyphen"/>tended on us his creatures in our creation: And in that he hath alſo given us his ho<g ref="char:EOLhyphen"/>ly law, as a glaſſe of righteouſneſſe, therein to look into and behold our ſinfull ſpots, and deformities, and ſo learn thereout the way or mean, to become purged from the ſame filthyneſſe; yet now, although we have ſeemed to look therein a long time, I ſee that our ſpots and deformities general<g ref="char:EOLhyphen"/>ly; are waxen worſe and worſe. And about the law or holy Scriptures, there is riſen every where great contention, and this I ſee come to paſſe, through all Chriſtendome, ſo well among thoſe which are counted for men of high knowledge, and great lear<g ref="char:EOLhyphen"/>ning, as likewiſe among all other ſorts of ſmaller underſtanding, in conſideration whereof I have both for my ſelf and others more cauſe to lament, then for to laugh or be merry.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Notwithſtanding Countryman, thou knoweſt right well, that we have been taught theſe many yeares, by our learned
+<pb n="4" facs="tcp:170674:5"/>
+preachers, and that as it ſeemeth accord<g ref="char:EOLhyphen"/>ing to the Scriptures, that all our ſpots are cleanſed, and waſhed away, onely by the death of our Lord and Saviour Jeſus Chriſt, and by no other means, whereof we may in no wiſe doubt or miſtruſt, but muſt acknowledge that he hath made a full reconcilement, and ſatisfaction to God his Father, upon the Altar of his Croſs, once for all our ſins, and for the ſins of the whole world: yea moreover as thou knoweſt, that we all have our freedom there<g ref="char:EOLhyphen"/>by; though yet, as it cannot be denied, we have been deceived in times paſt, by many falſe prophets, and teachers, which have craftily crept in amongſt us, in ſheeps Cloathing, under pretence of holineſſe: But yet Chriſt ſayeth, you ſhall know them by their fruits, and thoſe you know were the ſuperſtitious papiſts, which brought in all Idolatry and abuſe: But now, God be thanked, all ſuch Abominations with worſhipping of Images, <hi>&amp;c.</hi> is gone, you hear, and Baniſhed quite out of this land, truth is ſet up in place, the Goſ<g ref="char:EOLhyphen"/>pel of Gods Kingdom is ſincerely preach<g ref="char:EOLhyphen"/>ed, all over, by Gods true prophets, elect miniſters, and upright diſciples of Chriſt, and is thankfully received, you ſee, of all
+<pb n="5" facs="tcp:170674:5"/>
+people to their ſalvation, and ſo the bands of Antichriſt, ſonne of perdition, which is the Pope, are broken, and we now by that means, are ſet free from all thraldom, wherein we were once captivated, &amp; are re<g ref="char:EOLhyphen"/>ſtored into the liberty of the Goſpel; for e<g ref="char:EOLhyphen"/>ven ſo you know we are taught, to this day.</p>
+            </sp>
+            <sp>
+               <speaker>Country-man</speaker>
+               <p>We are ſo taught I grant, and have not much preſently to ſay there againſt: But yet how many in theſe dayes, amongſt ſuch as accompt themſelves for wiſe and learned, are likewiſe ſtill deceived and do deceive others, I keep ſilence thereof: for thou knoweſt well enough that I have been ſhent heretofore, therefore I mean not to contend, or once ſeem to medle in ſuch high matters, as are above my capaci<g ref="char:EOLhyphen"/>ty: &amp; you know moreover; that it is thought ſome were conſtrained, to ſing a ſong at <hi>Paul's</hi> Croſs, in which one among the reſt, overreached himſelf ſo high above his ac<g ref="char:EOLhyphen"/>cuſtomed note, that ſoone after in quaver<g ref="char:EOLhyphen"/>ing, he loſt his voyce for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>I know of whom you mean: Well, it is
+<pb n="6" facs="tcp:170674:6"/>
+a lamentable caſe that ſuch things ſhould be wrought among Chriſtians; yet never<g ref="char:EOLhyphen"/>theleſs happily he had not otherwiſe than his deſert.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>And again happily he was ſet on, or entred into ſo high a Note by others, and by ſuch means, mought perhaps be con<g ref="char:EOLhyphen"/>ſtrained to over-reach himſelf as it were unawares; yet will I not judge herein, but leave it to him that knoweth all ſecrets, and will reward every one according to his deeds.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>But I pray thee Countrey-man, who is he that ſtandeth yonder to ſtill all this while? he ſeemeth to be neither Citizen nor Country-man; but rather a wildman that were clothed in moſs, and coming late out of the wilderneſs or mountains: his hair, as ſeems to me, hangs ſtrangely over his ſhoulders, and his garments ſeems to be torn with wild beaſts, or elſe rent with buſhes.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:170674:6"/>
+               <speaker>Countrey-man.</speaker>
+               <p>Alack he is a poor <hi>Exile,</hi> and is indeed our very near kinſman: for he was born of my mother, and was her ſecond ſon begotten of my father, but is not my brother. He is now termed of <hi>the Fa<g ref="char:EOLhyphen"/>mily of Love,</hi> or of God; and becauſe ma<g ref="char:EOLhyphen"/>ny ſeek after his blood, he may not there<g ref="char:EOLhyphen"/>fore well as yet ſhew his head; notwith<g ref="char:EOLhyphen"/>ſtanding happily, if be were here, foraſ<g ref="char:EOLhyphen"/>much as he is an <hi>Exile,</hi> and hath no cer<g ref="char:EOLhyphen"/>tain dwelling place, he durſt with more boldneſſe anſwer thee in all thy doubts, and theſe deep and dangerous points (whereof thou haſt ſpoken before) than I dare do: For you know that it is meet for a Countrey-man to follow his calling, and not for to meddle in divine cauſes, that are above his capacity.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>That is well ſaid Countrey-man, for in<g ref="char:EOLhyphen"/>deed, I would gladly talk with ſuch a one as would anſwer me boldly plainly, and fully to all whatſoever I ſhould demand of him. Ho, thou poor fellow come hither, I would ſpeak with thee.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:170674:7"/>
+               <speaker>Exile.</speaker>
+               <p>Here I am, what is your pleaſure with me?</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>How ſayeſt thou, <hi>Exile?</hi> wilt thou an<g ref="char:EOLhyphen"/>ſwer directly, plainly, and fully to all things that I ſhall ask of thee, and that ac<g ref="char:EOLhyphen"/>cording to truth?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Yea, according to my ſimple underſtan<g ref="char:EOLhyphen"/>ding, and as one unlearned; wiſt I that you would credit me, when as I have told you the truth.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Then firſt of all tell me, Where is thy dwelling?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>My dwelling place as yet is uncertain on earth, though often times in the wilder<g ref="char:EOLhyphen"/>neſs, and mountains among wild beaſts.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>And what are thy garments made of,
+<pb n="9" facs="tcp:170674:7"/>
+wherewith thou ſeemeſt to be ſo ſtrangely clothed?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Of the skins of wild beaſts.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>How happeneth that?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Leſt otherwiſe I might hap to be de<g ref="char:EOLhyphen"/>voured of them.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>And why art thou, as an <hi>Exile,</hi> fain to fly?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Becauſe that I being nevertheleſs a <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> &amp; a true hearted ſubject to the <hi>Queens</hi> Majeſty, and in all things obedient unto her Laws and Ordinances, may not yet be ſuffered to live in reſt and peace: and that only by reaſon of ſome envious and blaſphemous tongues.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:170674:8"/>
+               <speaker>Countrey-man.</speaker>
+               <p>I pray thee Citizen, ſpend not the time about ſuch trifling matters and queſtions; but rather go to the former matters, whereof you ſpake to me erewhile, and know his underſtanding therein.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Very well, content, though this be no trifling matter, that Chriſtians, and true hearted ſubjects to their Prince, and li<g ref="char:EOLhyphen"/>ving obediently under her Laws and Or<g ref="char:EOLhyphen"/>dinances (might it ſo be proved) ſhould be thus perſecuted, eſpecially in the daies of our moſt gracious Queen <hi>Elizabeth:</hi> and alſo in the daies of preaching the Go<g ref="char:EOLhyphen"/>ſpel. Firſt of all then, this is my queſtion, How ſayeſt thou <hi>Exile?</hi> Are not all our ſpots and deformities waſhed clean away, and we ſo cleanſed from our ſins, by the death and paſſion of Jeſus Chriſt only?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Yea, all theirs are to whom ſuch words are ſpoken, or promiſe made in holy
+<pb n="11" facs="tcp:170674:8"/>
+Scripture, neither is there any other waſh<g ref="char:EOLhyphen"/>ing, or cleanſing of ſinfull ſpots I confeſs, but alone by the death and paſſion of Jeſus Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>To whom are ſuch words ſpoken, and who are they then, that ſhall be ſaved, or whoſe ſpots are done away by Chriſt?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Onely to ſuch, as through the preaching of the word of the Goſpel, are in true repentance converted, under the obedi<g ref="char:EOLhyphen"/>ence of the love, or life of the ſame word, to the faith, doctrin, and life of Jeſus Chriſt and his apoſtles; and even like as were the Congregations of the faithfull, to whom ſuch comfortable words of ſal<g ref="char:EOLhyphen"/>vation and cleanſing, or freedom by Chriſt, were written in times, paſt: To all ſuch-like I ſay, are ſuch Comfortable promiſes made, and do ſo ſtand faſt eſtabliſhed for ever, and not to the obſtinat unregenefate or unrepenting ſinners.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:170674:9"/>
+               <speaker>Citizen.</speaker>
+               <p>But yet tell me, how ſayeſt thou, Are not all free by Chriſt?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>So many as are thus cleanſed as aforeſaid, or are delivered by Chriſt, through the Re<g ref="char:EOLhyphen"/>generation of the true Baptiſme, of re<g ref="char:EOLhyphen"/>pentance and newneſſe of life from the ſin, death, Devill and Hell, wherein they were captived, and ſo reſtored, into the glorious liberty of the Sons of God, they are all no doubt free through Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Wilt thou then deny the Sacrament of Baptiſme?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Though I ſpeake of the true Baptiſme, or regeneration through repentance, and newneſſe of life, yet do I not deny the ho<g ref="char:EOLhyphen"/>ly Sacrament of Baptiſme, which ſignifieth regeneration in Chriſt, and is miniſtred
+<pb n="13" facs="tcp:170674:9"/>
+to Infants, thought ſome have moſt unjuſtly ſo reported of us.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>It ſeemeth unto me by thy words, that thou ſhouldeſt partly ſtand in doubt con<g ref="char:EOLhyphen"/>cerning the manifold mercies and bene<g ref="char:EOLhyphen"/>fits of God extended towards us and all mankind, in giving over his Son unto the death of the Croſſe, as though he had not ſufficiently therein fulfilled and accom<g ref="char:EOLhyphen"/>pliſhed upon the Altar of that his Croſs a fall ſatisfaction and ſacrifice for the ſins of the whole world: the which thing who ſecret doth deny doubtleſs he erreth very much &amp; is againſt the holy Scriptures.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>I do nothing doubt or miſtruſt, con<g ref="char:EOLhyphen"/>cerning the manifold graces of God the father, extended towards us all: Nor yet concerning the full and perfect ſatisfacti<g ref="char:EOLhyphen"/>on ſacrifice or oblation offered up by Jeſus Chriſt, once for all, upon the Altar of his Croſſe, when as he give his holy body to be Crucified, and his moſt pretious bloud to be ſhed, for the redemption of all mankind, for to bring again through
+<pb n="14" facs="tcp:170674:10"/>
+himſelf, the generation of mankind, which is altogether eſtranged from God and his righteouſneſſe, by the diſobedience of <hi>A<g ref="char:EOLhyphen"/>dam,</hi> in his Innocent and glorious eſtate, wherein he was firſt created: And there<g ref="char:EOLhyphen"/>fore I have no doubt at all, but do believe aſſuredly according to the Scriptures, that Jeſus Chriſt hath of his part accompliſh<g ref="char:EOLhyphen"/>ed it all. Notwithſtanding of this one thing I ſtand in doubt, <hi>viz.</hi> Whether ma<g ref="char:EOLhyphen"/>ny at this day amongſt us, which boaſt our ſelves for Chriſtians, and for partak<g ref="char:EOLhyphen"/>ers of all the merits of Chriſts death and paſſion, have any earneſt luſt or inclina<g ref="char:EOLhyphen"/>tion, with all Gods elect, to accompliſh that which on their part is lacking of the paſſions of Chriſt, and is nevertheleſſe ear<g ref="char:EOLhyphen"/>neſtly required of us, in the holy Scrip<g ref="char:EOLhyphen"/>tures, <hi>viz.</hi> to repent us earneſtly of our ſins paſt, to forſake our ſelves taking, up our Croſſe, and following Chriſt; to dye unto ſin, to crucifie the fleſh with her luſts, to put on the new man of rigteouſneſſe, to dwell in Chriſt, and to have him to dwell in us, or to put on Chriſt, to have the ſame minde in us that was in Chriſt, to become as little Children, to believe in him, to keep his word, and to do all whatſoever he commandeth, to love one
+<pb n="15" facs="tcp:170674:10"/>
+another, to obey our governors, and to live under their Lawes; and even ſo to eate the fleſh of Chriſt and drink his blood, that ſo we might have life in us: doubtleſs whoſoever doth not thus endeavour him<g ref="char:EOLhyphen"/>ſelf to walk as is aforeſaid, in this infallible Chriſtian rule, which is expreſſed more at at large unto us in the Service of Love, in the after following of Chriſt; he may not know the truth, or Chriſt, become made free of the truth, nor inherit the Kingdom of heaven, or be ſaved.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Thou haſt put me in mind of a marvel<g ref="char:EOLhyphen"/>lous matter: But tell me, can any man live ſo pure (whilſt he is in this mortal life) but that he ſhall ſin?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Underſtand, there is no man living, be he what he is, but he ſhall ſometimes ſin or offend, whiles he is this mortal life; notwithſtanding, <hi>He that is born of God</hi> (namely Chriſt Jeſus the man of God from heaven, that new Creature in whom the ſeed of God remaineth) <hi>ſinneth not.</hi> And
+<pb n="16" facs="tcp:170674:11"/>
+then know this alſo, that there is a great difference between ſin unto death, and ſin not unto death.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>That is ſo indeed; but yet then, what thinkeſt thou herein? have we not been deceived in times paſt, by many falſe Pro<g ref="char:EOLhyphen"/>phets and falſe Teachers, which have wal<g ref="char:EOLhyphen"/>ked among us in ſheeps clothing, being inwardly ravening Wolves? And were not thoſe the ſuperſtitious <hi>Papiſts,</hi> which brought in all abuſes, as worſhipping of Images, with much more idolatry into this Land, although it be now baniſhed quite.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Yes, we have been no doubt in times paſt much deceived, and yet are to this day. The ſuperſtitious <hi>Papiſts,</hi> I grant, were falſe Prophets, and falſe Teachers, which brought in many abuſes with idola<g ref="char:EOLhyphen"/>try (for covetouſneſs is idolatry) and the Prophet complaineth ſaying, <hi>This people carrieth unclean,</hi> or foul <hi>Idols, in their hearts, meaning ſtill to go on in their wicked<g ref="char:EOLhyphen"/>neſs,
+<pb n="17" facs="tcp:170674:11"/>
+&amp;c.</hi> Yea, all what the man eſteem<g ref="char:EOLhyphen"/>eth more of in his heart, than of God and his holy Law that ſame is to him an Idol; he falleth down before it, ſerveth and ho<g ref="char:EOLhyphen"/>noureth it, prayeth likewiſe unto it.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Wilt thou ſay then, that many of us in this Land are yet deceived, and that we have now in theſe laſt days, falſe Prophets and falſe Teachers among us?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Yea, for ſo it is prophecied or fore ſpo<g ref="char:EOLhyphen"/>ken in the holy Scriptures, to come to paſs in the laſt times: notwithſtanding yet muſt I needs think well of all ſuch Preach<g ref="char:EOLhyphen"/>ers, as hunger and thirſt after the truth, righteouſneſs, love, obedience and peace, expreſſing likewiſe the ſame in their good and godly converſation.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>How ſhall men know then the falſe pro<g ref="char:EOLhyphen"/>phets and falſe Teachers?</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:170674:12"/>
+               <speaker>Exile.</speaker>
+               <p>By their Fruits.</p>
+            </sp>
+            <sp>
+               <speaker>Citizens.</speaker>
+               <p>That is very true: but ſhew me I pray thee, by ſome certain notes or manifeſt to<g ref="char:EOLhyphen"/>kens, how I might henceforth know them with their fruits; for that I and all men might-ever after beware of the falſe, and give heed to the true.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Then mark well theſe ſix Notes fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <p n="1">1. They are ſuch as preſume to teach others the way to eternal life, before ever they have walked therein themſelves, or yet have once deſired to become firſt the diſciples of Chriſt, or of his word, to a re<g ref="char:EOLhyphen"/>formation of their own lives, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. Such as will be taken for perfect Chriſtians, and godly teachers, ere ever that Chriſt, who is the truth, the right ſpi<g ref="char:EOLhyphen"/>rit and the life, have gotten a living ſhape in them, whereby they might firſt preach
+<pb n="19" facs="tcp:170674:12"/>
+Chriſt aright, out of a good converſion in all love, even ſo then go before the peo<g ref="char:EOLhyphen"/>ple, having both oyl in their veſſels, and light in their Lamps, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3. Such as will ſeem to have put on the new man of righteouſneſs, and yet never took in hand, nor have known how to do off the old man of ſin and wickedneſs firſt: notwithſtanding, they take upon them to underſtand, and to expound Gods ſecret myſteries out of the Scriptures, <hi>&amp;c.</hi>
+               </p>
+               <p n="4">4. Such as will be free by Chriſt, and teach men ſo, ere ever they ſeen into their Captivity and thraldom of the ſin, death, devil and hell, whole bond-ſlaves and captives they themſelves yet are: and ere ever they have repented them rightly from their ſin, in ſuch ſort, that it might e<g ref="char:EOLhyphen"/>ver after appear among all men, in their holy walking.</p>
+               <p n="5">5. Such as will take on them to under<g ref="char:EOLhyphen"/>ſtand, and publiſh forth the ſecret myſte<g ref="char:EOLhyphen"/>ries of Gods divine wiſdom, contained in the holy Scripture, by the ingeniouſneſs of the fleſhly wiſdom, they themſelves being as yet unregenerate &amp; given to lying, blaſ<g ref="char:EOLhyphen"/>pheming, traytors, oppreſſion, covetouſnes, perſecuting, with all kind of maliciouſ<g ref="char:EOLhyphen"/>neſſe, wickedneſs and licentiouſneſs of life.</p>
+               <pb n="20" facs="tcp:170674:13"/>
+               <p n="6">6. Such as boaſt of their deliverance, in the laſt reſurrection, and teach men ſo<g ref="char:EOLhyphen"/>ere ever they have got any part in the firſt, or are renewed in the Spirit and mind, or yet ſtand up with Chriſt, from the death <hi>&amp;c.</hi>
+               </p>
+               <p>All theſe and ſuch like, ſay I, are falſe prophets, though covered in ſheeps cloath<g ref="char:EOLhyphen"/>ing, but inwardly they are ravening woulfs; men ſhall know them by their fruits: with their mouth indeed, they confeſs Chriſts but in their deeds deny him; they are likewiſe blind guides ſuch as have ta<g ref="char:EOLhyphen"/>ken on them to lead the Ignorant out of darkneſſe into he light, and yet them<g ref="char:EOLhyphen"/>ſelves, as thoſe that love not the light, will ſtill remain in darkneſſe: Theſe are very Libertines, inclined alwayes to hatred and iniquity, ſtirring up ſtrife , ſetting variance amongſt Princes, breaking lawes, deſpi<g ref="char:EOLhyphen"/>ſing autority and ordinances of men, re<g ref="char:EOLhyphen"/>ſiſting Gods love and mercifullneſſe, Blaſ<g ref="char:EOLhyphen"/>pheming the truth, and perſecuting the Innocent or ſimple, which love God and his righteouſneſſe, and walk in all obedi<g ref="char:EOLhyphen"/>ence and peace: Wherefore thoſe be the children of <hi>Beliall,</hi> and void of all wiſdom, ſuch as unleſſe they repent in time, muſt be ſhut out amongſt the fooliſh, rejected
+<pb n="21" facs="tcp:170674:13"/>
+for the workers of iniquity, and with all Hypocrites receive their portion in the helliſh condemnation conſider adviſed<g ref="char:EOLhyphen"/>ly of it, for it is very true.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>But wilt thou ſay, that all thoſe and ſuch like are no Chriſtian?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Yes verily, by ſigne or outward ſhow, and name they be.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>And muſt not ſuch preach the truth notwithſtanding, &amp; ſhew forth the many high knowledges, and ſecret myſteries out of the Scriptures.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Yea, all what they heart ſpoken or chance to read in any writing, that can they readily ſpeak out againe: But not like as all thoſe true prophets of God, and di<g ref="char:EOLhyphen"/>ſciples of Chriſt have alwayes done, out
+<pb n="22" facs="tcp:170674:14"/>
+of any Godly underſtanding through the holy Spirit of God or Chriſt; for that were impoſſible, becauſe the ſame Spirit is not with them. For allbeit they have the Scriptures, and the Godly witneſſes, wherethrough they mean to be under<g ref="char:EOLhyphen"/>ſtanding and wiſe, yet forasmuch as they give not all their underſtanding over as captive, under the obedience of the love of Chriſt, and his holy word, as under that ſame Being or life, whereunto the Scripture witneſſeth, but run ſtill forth with the knowledge, ſo have they verily neither light, truth, ſpirit, nor being of God, Chriſt, nor of his word. And there<g ref="char:EOLhyphen"/>fore they neither know, nor yet under<g ref="char:EOLhyphen"/>ſtand any thing at all rightly of that whereof they then praie or ſpeak forth un<g ref="char:EOLhyphen"/>to others.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>If all ſuch as thou haſt here ſpoken of, were libertines having neither light, truth, nor ſpirit of God or Chriſt; then God be mercifull unto us, for then were it all in vain for many a one in theſe dayes to ſtand up or teach in a Congregation: notwithſtanding I cannot be perſwaded as
+<pb n="23" facs="tcp:170674:14"/>
+yet, although I moſt needs grant, that for the moſt part, they do not live the ſame which they do teach to others, like as they themſelves have confeſſed, but that they nevertheleſſe preach unto the people both Gods word &amp; the truth out of the right ſpi<g ref="char:EOLhyphen"/>rit; be they themſelves never to evil, elſe God forbid: And I pray you Sirs, did not <hi>Judas,</hi> amongſt the reſt of the apoſtles, go and preach the Goſpel, and yet was not he a wicked one, and betrayed his ma<g ref="char:EOLhyphen"/>ſter? And did not <hi>Peter,</hi> which denied his maſter, preach Goſpel alſo? And it is written, The Scribes and Phariſees ſit in <hi>Moſes</hi> ſeat or Chair; what they bid you ob<g ref="char:EOLhyphen"/>ſerve that obſerve and do: But as they do; do you not, for they ſayd and do nor: There<g ref="char:EOLhyphen"/>fore why may not wicked men preach the truth?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Let us conſider adviſed by of the Scrip<g ref="char:EOLhyphen"/>tures, and be no longer deceived: Foraſ<g ref="char:EOLhyphen"/>much as it ſtandeth written, that Chriſt is the light of the world, the Heavenly truth, the right ſpirit, yea and the word of God it ſelf: Then how were it poſſible that thoſe which are void of Chriſt, ſhould
+<pb n="24" facs="tcp:170674:15"/>
+preach or propheſie aright, the true to inde or word of God, contained in the holy Scriptures, the whilſt I ſay, that the ſame ſpirit of truth is not in them; for it is written, that the Scripture never came by the will or mind of man, but holy men of God did ſpeak as they were inſpired by the holy Ghoſt; And it is written alſo, that the naturall or fleſhly minded man, perceaveth not the things of God, <hi>&amp;c.</hi> And again wiſdom will not dwell in a froward ſoul, nor yet in a body that is ſub<g ref="char:EOLhyphen"/>dued to ſin: For, where wickedneſſe hath the upper hand, the holy Ghoſt doth flie from thence: And yet note then more<g ref="char:EOLhyphen"/>over, that after ſuch time that man hath once entred into <hi>Judas;</hi> he preached not <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Peter<g ref="char:punc">▪</g>
+                  </hi> perceaving afterward what he had done, he wept bitterly: wherefore I am not againſt any one that will weep with <hi>Peter:</hi> And as for ſuch as ſit in <hi>Moſes</hi> ſeat or chair, which teach the law uprightly, I have not once touched; I ſpeak onely of them that ſit in their own chair of peſti<g ref="char:EOLhyphen"/>lence which reach their own law, or Im<g ref="char:EOLhyphen"/>agination of their fleſhly parts and good thinking, but not the holy lan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Lord, which is ſpirituall and containeth the truth, the life, or Chriſt it ſelf. And
+<pb n="25" facs="tcp:170674:15"/>
+therefore for want of the true ſpi<g ref="char:EOLhyphen"/>rit of underſtanding, there ariſeth in theſe dayes great contention, about the Scriptures.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>The more is to be lamented: But yet I pray thee anſwer me herein, for I am not reſolved in this matter: Have we not now the truth amongſt us? Is not now the Goſpel preached ſincerely, and recei<g ref="char:EOLhyphen"/>ved of all people thankfully to their ſalva<g ref="char:EOLhyphen"/>tion: where through the bonds of Anti<g ref="char:EOLhyphen"/>chriſt, which is the Pope of <hi>Rome,</hi> that had us long in captivity, are now broken, and we all by that means ſet at liberty?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>We have no doubt the holy Scriptures which bear witneſs of the truth, and there<g ref="char:EOLhyphen"/>in the minde or meaning of the truth is contained amongſt us: So have we many wholſome Sermons preached, and decla<g ref="char:EOLhyphen"/>red unto us, notwithſtanding had we the truth amongſt us, ſo had we Chriſt amongſt us: and had we Chriſt amongſt us, ſo world we no doubt lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e him or his word, and neither would perſecute him nor his members: And then, had he once
+<pb n="26" facs="tcp:170674:16"/>
+a form or ſhape in us, ſo ſhould he like<g ref="char:EOLhyphen"/>wiſe manifeſtly appear out of us, in our good converſation and holy walking: For it is written, <hi>If Chriſt be in you, then is the body dead</hi> or mortified <hi>concerning ſin:</hi> And again, <hi>Whoſoever hath not the ſpirit of Chriſt the ſame is none of his.</hi> And were the Goſpel preached ſincerely out of the truth, that is, out of the ſpirit of God or Chriſt, through a good converſation under the o<g ref="char:EOLhyphen"/>bedience of the word, in all meek-min<g ref="char:EOLhyphen"/>dedneſs, and godly love: ſo would many thouſands in this land, doubtleſs have re<g ref="char:EOLhyphen"/>pented them of their former life, and a<g ref="char:EOLhyphen"/>mended their ways upon the preaching of the ſame Goſpel: and would have more<g ref="char:EOLhyphen"/>over followed the footſteps of ſuch godly Preachers or Prophets, as had even ſo imi<g ref="char:EOLhyphen"/>tated Chriſt; and ſo then in very deed the people ſhould have received the Goſpel thankfully to their ſalvation: and by that means ſhould the bonds of Antichriſt, (which is the ſin, the devil, or will of the fleſh) which hath long time held us cap<g ref="char:EOLhyphen"/>tive, be broken in us: and we then rightly through Chriſt, ſhould have been delive<g ref="char:EOLhyphen"/>red there-from, and ſet at liberty; Not<g ref="char:EOLhyphen"/>withſtanding, how many in theſe days are ſet at liberty, or have taken to themſelves
+<pb n="27" facs="tcp:170674:16"/>
+at liberty to do all manner of uncomlineſs both againſt God and man; I refer that to the Teſtimony of their own Conſcien<g ref="char:EOLhyphen"/>ces,</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>I perceive then thou art not againſt any godly Preachers, that walk forth in all o<g ref="char:EOLhyphen"/>bedience of the word, and in whom Chriſt doth live and dwell, which alſo do ſhew forth, through the ſame meek-minded ſpi<g ref="char:EOLhyphen"/>rit, all due obedience to God and Gover<g ref="char:EOLhyphen"/>nours, as likewiſe an upright, lovely, peaceable and brotherly life towards all men: and that preach forth the ſame word of truth and life (which they as then have both felt, handled, and taſted of) un<g ref="char:EOLhyphen"/>to others moe.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>No verily, but I do reverence in the Lord all ſuch, as the true miniſters, and diſtributers of the heavenly riches and treaſures of God and Chriſt: and only to ſuch is that high office of preaching or pro<g ref="char:EOLhyphen"/>phecying committed, and to none o<g ref="char:EOLhyphen"/>ther; for ſuch will not reſiſt the godly life
+<pb n="28" facs="tcp:170674:17"/>
+in the Love, whereunto we are all, out of grace, undeſervedly and lovingly called, and warned in the ſervice of Love, now in theſe laſt days of our preſervation.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>I think no leſs, but that thou haſt ex<g ref="char:EOLhyphen"/>preſſed unto me thy mind aright herein; but yet tell me, Wilt thou then ſay the Pope is not Antichriſt?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>I know not the man: notwithſtanding to ſay what I conjecture of him, I do not otherwiſe imagine of him, but that he is or may be poſſeſſed with the ſpirit of An<g ref="char:EOLhyphen"/>tichriſt, which is the will of the fleſh or of the devil, the contrary anointed one, and enemy to Chriſt, rhrough which ſpirit many ignorant ones in theſe perilous days, as well among the high learned, as among the ignorant, have taken to them<g ref="char:EOLhyphen"/>ſelves a freedom to work all manner of blaſphemies, oppreſſions, perſecutions, with all other uncomely abuſes, both a<g ref="char:EOLhyphen"/>gainſt God and men. But yet ſuch a free<g ref="char:EOLhyphen"/>dom and liberty, underſtand, doth not the
+<pb n="29" facs="tcp:170674:17"/>
+Goſpel of Chriſt bring in, or teach, but ra<g ref="char:EOLhyphen"/>ther the Devil, and that ſpirit of Anti<g ref="char:EOLhyphen"/>chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Thou haſt doubtleſs made me afraid, and alſo aſtonied at theſe thy wonderful anſwers: ſo that, I dare ſcarce demand any more matter of thee, leſt haply any one ſhould ly in waite in ſome ſecret place and over-hear us, and ſo carry this our communication, to ſome of our learned that now be in authority; for then we all haply, if they might find us, ſhould ſing a Counter note, unleſs we did recant all the ſame, and yet haſt thou ſpoken an un<g ref="char:EOLhyphen"/>confutable truth.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>The caſe is lamentable, the whilſt the truth may not be ſpoken freely, notwith<g ref="char:EOLhyphen"/>ſtanding, if you have ought elſe to demand of me, either touching naturall or Heavenly things, ask of it freely, and I, under permiſſion, and according to my un<g ref="char:EOLhyphen"/>derſtanding, will anſwer as the Lord ſhall give me in minde: for as much as all
+<pb n="30" facs="tcp:170674:18"/>
+things needfull both naturall and ſpiritu<g ref="char:EOLhyphen"/>all are expreſſed at large unto us, in the Service of Love.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Of fellowſhip then, ſhew me a little of thy underſtanding, touching the natu<g ref="char:EOLhyphen"/>rall creatures, that are earthly and ele<g ref="char:EOLhyphen"/>mentiſh, how and in what manner they live, move, and have their courſe of being, for that my dull capacity might the bet<g ref="char:EOLhyphen"/>ter conceive of the Lords workes in the Spirituall creatures.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>I find out and perceave (according to my ſimple underſtanding) that the Lord the maker of Heaven and earth, hath ordain<g ref="char:EOLhyphen"/>ed and ſet all things naturall, that they ſhould remain in the upright form and or<g ref="char:EOLhyphen"/>der, and that likewiſe the whole maſſe of the earth, as man, beaſt, fiſh, foule, hearb, tree, with all elſe that is earthly, and ele<g ref="char:EOLhyphen"/>mentiſh, which is under the Sun, is to be beheld and conſidered of him in five parts, of the which, four be elements <hi>viz.</hi> Ayr, Earth, Fire, and Water, of whoſe ſubſtances
+<pb n="31" facs="tcp:170674:18"/>
+every particular living creature is partak<g ref="char:EOLhyphen"/>er: The fifth part is a naturall living Being, wrought through the almighty power of the heavenly word whereby every creature is ſuſtained, and liveth in his naturall kind or being, and bringeth forth likewiſe there<g ref="char:EOLhyphen"/>out his fruit or increaſe. And there is no viſible ſubſtance or creature, being earthly and elementiſh, that is not or hath not been partaker thereof: And allbeit now that this whole maſſe, hath from in the beginning of Creations in<g ref="char:EOLhyphen"/>creaſed it ſelf mightily, in many creatures on the earth, yet do we ſee in as much as every element (ſo ſoon as the life is ta<g ref="char:EOLhyphen"/>ken away from the creature, or the crea<g ref="char:EOLhyphen"/>ture from it) claymeth or taketh him his own, <hi>viz.</hi> the fiery element his, the ayry his, the watery his, and ſo leaveth to the earthly onely his own: yet the earth is not therefore any whit the bigger: the water, not any whitt the more increaſed: the ayre, never the fuller or larger: ne yet the fire any thing at all augmented there<g ref="char:EOLhyphen"/>by.</p>
+               <p>And why? Like as the ſame increaſe out of Gods workmanſhip, hath proceed<g ref="char:EOLhyphen"/>ed from them in the life; even ſo doth every element (at the departure of the life)
+<pb n="32" facs="tcp:170674:19"/>
+claim again to himſelf no more but his own, like as is ſaid <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Citizen<g ref="char:punc">▪</g>
+               </speaker>
+               <p>I perceive more by theſe thy words, then ever I could conſider of before; For I ſee now that God hath ordained, or ſet the na<g ref="char:EOLhyphen"/>tural creatures, and every one in his courſe, for to remain in a comely order, to an everlaſting praiſe of his holy name. But yet I pray thee, like as thou haſt ſpoken ſome what of thy underſtanding things natural: ſo let me alſo hear a little of thee, concer<g ref="char:EOLhyphen"/>ning the ſpiritual and heavenly workman<g ref="char:EOLhyphen"/>ſhip of God in man, for his preſervation in Chriſt Jeſus.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>The great mercifulneſſe of God the Fa<g ref="char:EOLhyphen"/>ther, concerning his gracious workman<g ref="char:EOLhyphen"/>ſhip in the man, and how he hath in the beginning formed him, according to his own Image and ſimilitude, is to be behol<g ref="char:EOLhyphen"/>den, or conſidered in an heavenly or ſpiri<g ref="char:EOLhyphen"/>tual manner, <hi>viz.</hi> in the very like being of his God-head, in perfect righteouſneſs and holineſs. Notwithſtanding now, the man
+<pb n="33" facs="tcp:170674:19"/>
+being fallen away through <hi>Adams</hi> tranſ<g ref="char:EOLhyphen"/>greſſion; from this his former glorious e<g ref="char:EOLhyphen"/>ſtate wherein he was ſet, ſo is there no way or mean for him, to come again to be brought therunto, but through faith in Je<g ref="char:EOLhyphen"/>ſus Chriſt, and that only by his death, and paſſion, blood-ſhedding and reſurrection, when we as Chriſtians become turned clean about, <hi>viz.</hi> When we out of Gods grace, upon the founding forth of the Go<g ref="char:EOLhyphen"/>ſpel of Jeſus Chriſt, do repent us unfainedly of our ſins paſt, amend our lives, take up our croſs daily on us againſt the ſin, and e<g ref="char:EOLhyphen"/>ven ſo crucifie the fleſh with the luſts and deſires thereof, <hi>&amp;c.</hi> according to the Scri<g ref="char:EOLhyphen"/>ptures, and alſo like as we are raught, and counſelled thereunto at large, in the <hi>Service of Love.</hi>
+               </p>
+               <p>To this end, and to the mans preſerva<g ref="char:EOLhyphen"/>tion, will the Almighty God now in the end of the world, prepare him his Angels or Miniſters: And all what is gone out from God &amp; enranged, &amp; would gladly re<g ref="char:EOLhyphen"/>turn to him again; the ſame ſhall they now (through the ſounding forth of his Goſpel or laſt trump) gather together as good wheat: All thoſe ſhall be brought again through Chriſt unto God. And contrary<g ref="char:EOLhyphen"/>wiſe, all middle walls, ignorant know<g ref="char:EOLhyphen"/>ledges,
+<pb n="34" facs="tcp:170674:20"/>
+falſe wiſdoms, wicked imaginati<g ref="char:EOLhyphen"/>ons, which are not proceeded of God, but are riſen up out of the bottomleſs pit of darkneſſes, together with all whatſoever hath handfaſt it ſelf, or holden fellowſhip therewith, and will not have any better, ſhall be in like manner gathered together as unprofitable weeds; yea, all thoſe ſhall be found as incorporated members to the iniquity, and thrown (ſoul and body) into the bottomleſs pit of the everlaſting con<g ref="char:EOLhyphen"/>demnation, as likewiſe into the helliſh fire which is prepared for the Devil and his Angels from the beginning: Lo thus ſhall every one claim his own: The bottomleſs pit of the condemnation (from whence all evil doth proceed) ſhall, through the ſoun<g ref="char:EOLhyphen"/>ding forth of the Goſpel of Jeſus Chriſt, claim his. And the mighty God (from whom all good doth proceed) ſhall, through his Chriſt, claim unto him, all godlineſſes or vertues which are proceeded from him, together with all whatſoever ſe<g ref="char:EOLhyphen"/>parateth it ſelf from the iniquity, hath handfaſt it ſelf, or held fellowſhip with the godlineſſes; all thoſe as incorporated members to the godlineſſes, and godded or ſpirited with God in one ſpirit, ſhall go to God again, and ſhall reign with God
+<pb n="35" facs="tcp:170674:20"/>
+and Chriſt (ſoul and body) in the kingdom of heaven, and live in joy everlaſtingly. It is very true.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>But is there not ſome Predeſtinate unto preſervation, and again ſome predeſtinate unto condemnation, as alſo elected there<g ref="char:EOLhyphen"/>to from the beginning?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Yes verily, there are two with their members, that are predeſtinated or preor<g ref="char:EOLhyphen"/>dained thereunto from the beginning: The one is, Chriſt the man of God, predeſtinate unto preſervation, and with him all his in<g ref="char:EOLhyphen"/>corporated members: The other is, the man of ſin Antichriſt, predeſtinate unto condemnation, and in him all his incor<g ref="char:EOLhyphen"/>porated members. As for any other pre<g ref="char:EOLhyphen"/>deſtination then this, (come it out of <hi>Tur<g ref="char:EOLhyphen"/>key</hi> or elſe where) I know not of it.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Thou haſt told me the truth, and alſo fully anſwered me to all things natural
+<pb n="36" facs="tcp:170674:21"/>
+and ſpiritual, which I have demanded of thee. What ſhall I ask more? God be merciful unto us, and unto all ſuch as err of ignorance, and give them eys of under<g ref="char:EOLhyphen"/>ſtanding, and ears of pure hearts, that they ſeeing in what eſtate they yet do ſtand, and hearing alſo which is the right way to come out, might repent them, turn from their wickedneſs, believe rightly, and ſo come to the knowledge of truth, and be ſa<g ref="char:EOLhyphen"/>ved, <hi>Amen.</hi>
+               </p>
+               <p>Now Countrey-man, thou haſt heard this fellow, and his wonderful anſwers, what ſayeſt thou to it, for I am almoſt at my wits end, and marvellouſly aſtonied.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>Doubtleſſe Citizen, he is in great Here<g ref="char:EOLhyphen"/>ſies and misbelief, or elſe I may tell to thee in counſel, in any of the learned in theſe days are far out of the way that lead<g ref="char:EOLhyphen"/>eth to life, and alſo ignorant of the ground of the heavenly truth; wherefore I think it not amiſs, that thou examine him con<g ref="char:EOLhyphen"/>cerning his belief in God the Father, in Je<g ref="char:EOLhyphen"/>ſus Chriſt the Son, and in the Holy Ghoſt the Comforter; and whereupon he hath grounded his Religion: how he came by
+<pb n="37" facs="tcp:170674:21"/>
+this underſtanding: what he thinks of our learned Preachers in theſe days: as al<g ref="char:EOLhyphen"/>ſo of other matters as thou ſhalt think meet, leſt haply we might be ſeduced, through ſome ſubtil heretick; infidel, or diſobedient perſon, which perchance might be againſt the Queens Religion, or elſe pretended to bring confuſion over the Land.</p>
+            </sp>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>Thy counſel is very good but then I pray thee rather talk with him thy ſelf; for I am brought into ſuch a trembling perplexity, and ſorrow of heart ſince I have heard him, and that as well for mine own cauſe, as alſo for others; which I yet ſee going a<g ref="char:EOLhyphen"/>ſtray, that I dare ask no more queſtions.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>Very well then, I will talk with him my ſelf. Come hither <hi>Exile,</hi> ſhew us I pray thee, whereon thy belief, and thy re<g ref="char:EOLhyphen"/>ligion ſtandeth grounded?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>I protect before God and man, That
+<pb n="38" facs="tcp:170674:22"/>
+my belief is in God the Father, in Jeſus Chriſt the Son, and in the Holy Ghoſt the Comforter, and is grounded on the Faith of the Holy Fathers, Prophets and Apo<g ref="char:EOLhyphen"/>ſtles mentioned in the holy Scriptures: alſo according to the common Apoſtolick Creed, the Creed of <hi>Athanaſius,</hi> and the <hi>Nicene</hi> Creed, to even ſo far forth as I may obtaine grace and power thereto, of the Lord.</p>
+               <p>Secondly, I acknowledge, there is no other way or mean, either of remiſſion of ſins or of ſalvation for us to be had, or yet mercy to be obtained at Gods hand; but alone in, by, and through the death, paſſi<g ref="char:EOLhyphen"/>on, and reſurrection of Jeſus Chriſt, our Lord and Saviour: And that he hath offe<g ref="char:EOLhyphen"/>red once for all, upon the Altar of His Croſs, a full, perfect, and ſufficient ſacrifice and oblation, for the ſins of all the whole world.</p>
+               <p>Thirdly, I do acknowledge, that none ſhall be partakers thereof, but only ſuch as upon the publiſhing forth of the Goſpel of Jeſus Chriſt, do ſhew forth an unfained repentance for their ſins paſt, and walk in new obedience or in a new life, according to the requiring of the Goſpel: alſo ſuch as believe aright in God, and Chriſt and
+<pb n="39" facs="tcp:170674:22"/>
+are even ſo baptized into the death of Chriſt: Such as are regenerate of the wa<g ref="char:EOLhyphen"/>ter and of the ſpirit, and forſaking them<g ref="char:EOLhyphen"/>ſelves and their own lives, do take up their croſs on them, and follow after Chriſt in death and ſinful luſts and deſires: and ſo ſtand as thoſe that are waking and waiting for the coming of their bridgroom, ready prepared, having both oyl in their veſſels, and light in their Lamps: Such as love God and his Chriſt, and as his very diſci<g ref="char:EOLhyphen"/>ples keep his Commandements, and walk in all love towards God, and their neigh<g ref="char:EOLhyphen"/>bour, and in all dutiful ſubmiſſion and allegiance towards their Governors; and alſo live obediently under all their manly Ordinances: And finally, ſuch as in whom Chriſt liveth and dwelleth, or thoſe that incline themſelves under the obedience of the love of Jeſus Chriſt, and of his holy word, with all diligence thereunto.</p>
+               <p>Now, as touching my Religion, this I ſay, ſo often as I call to mind and conſider the great love and kindneſs of God the Fa<g ref="char:EOLhyphen"/>ther, ſhewed on me unworthy one, in that he hath created me like unto his own I<g ref="char:EOLhyphen"/>mage, and given me alſo his Law, for that I might live therein; And, which is much more, hath out of his meer love and mer<g ref="char:EOLhyphen"/>cy,
+<pb n="40" facs="tcp:170674:23"/>
+and of our part undeſerved, ſent his ſonne Chriſt to be a Saviour of the world, <hi>&amp;c.</hi> So ſtand I <hi>Religatus</hi> or bound again, (that is to ſay, Religious) to love my Lord and God (which loveth me ſo in<g ref="char:EOLhyphen"/>tirely) with all my ſoul, heart, and might; and for His loves ſake to love my neigh<g ref="char:EOLhyphen"/>bour as my ſelf: To love my Prince and all that bear authority under her; to live as a ſubject under her Laws, and humane Ordinances: And finally, to walk upright<g ref="char:EOLhyphen"/>ly, peaceably, and brotherly among all people in all love: And this is only to be obtained at Gods hand by prayer, and humble ſubmiſſion under the obedience of Gods holy word, through the comforting of the Holy Ghoſt, or Spirit of Love, of which ſpirit God hath promiſed to ſhed forth, upon his ſons and daughters plenti<g ref="char:EOLhyphen"/>fully, now in theſe laſt days, like as is ma<g ref="char:EOLhyphen"/>nifeſt in the <hi>Service of Love.</hi> And there<g ref="char:EOLhyphen"/>fore I acknowledge, that whoſoever now ſhall refuſe to incline or indeavour himſelf, for to walk in the ſame ſmall or nar<g ref="char:EOLhyphen"/>row way, being called or warned thereto out of love, by the Goſpel of Jeſus Chriſt, to live in ſuch a groundly faith of Jeſus Chriſt, in ſuch a true Religion, and upright obedience to God and Governors, and in
+<pb n="41" facs="tcp:170674:23"/>
+all ſubjection under Gods holy Laws, and manly Ordinances: and likewiſe in ſuch a brotherly love towards his neighbour, and peaceable life towards all men, as I have here reherſed, and likewiſe, as is more at large expreſſed, in the holy Scriptures and in the <hi>Service of Love:</hi> He is doubtleſs out of the true faith of God and Chriſt, and erreth very much, and ſhall not, nei<g ref="char:EOLhyphen"/>ther now, nor hereafter (unleſſe they re<g ref="char:EOLhyphen"/>pent in time) find mercy with God, or yet through Chriſt obtain remiſſion of his ſins, inherit the kingdom of heaven, or yet be<g ref="char:EOLhyphen"/>come ſaved. It is very true: therefore con<g ref="char:EOLhyphen"/>ſider adviſedly of it in time.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>Tell me how comeſt thou by this under<g ref="char:EOLhyphen"/>ſtanding,? or by what means was it made manifeſt unto thee?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Through the obedience of the word of God the Father, miniſtred out of the love of Jeſus Chriſt, through the holy Spirit of love, and in the Croſſe of Jeſus Chriſt, <hi>&amp;c.</hi> out of which miniſtration, all things need<g ref="char:EOLhyphen"/>full
+<pb n="42" facs="tcp:170674:24"/>
+to be known, ſo well things natural as ſpiritual, are at large laid open, the true diſcipline frequented, all grounds of Reli<g ref="char:EOLhyphen"/>gion, with all manner of errors, nakedly declared, the truth manifeſted: And alſo all people both Chriſtian and Heathen, Jew or Gentile, or of what Nation or Re<g ref="char:EOLhyphen"/>ligion whatſoever, <hi>&amp;c.</hi> are lovingly called and warned, to repentance and reforma<g ref="char:EOLhyphen"/>tion of life: likewiſe fore-warned of the great plagues, unlucky miſery and wo, that will ſpeedily, and unawares come upon all unrepenting ſinners, and licentious Scrip<g ref="char:EOLhyphen"/>ture-learned, to their utter condemnation in the fire of hell, among whom I have been chief; and now what am I poor ſin<g ref="char:EOLhyphen"/>ner, that I ſhould not ſubmit my ſelf, to ſuch a gracious warning, and repent ere ever Gods heavy wrath and indignation, in his righteous judgement fall upon me to my utter deſtruction.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>But what thinkeſt thou of our learned Preachers in theſe our days, whilſt many of them haply, have not heard or read of ſuch a miniſtration out of love, as thou ſpeakeſt of here; or elſe, if they have heard
+<pb n="43" facs="tcp:170674:24"/>
+of it, they have not perhaps ſo well conſi<g ref="char:EOLhyphen"/>dered thereof as it ſeems thou haſt done, art thou againſt them?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>I am againſt no learned Preacher, which advertizeth the people to repentance, god<g ref="char:EOLhyphen"/>lineſſe, peace, obedience, and love; and ſo long as they love God, and his righte<g ref="char:EOLhyphen"/>ouſneſs, they have, I ſuppoſe, all heard of the miniſtration of Love; and have many read and ſeen of the Books, though per<g ref="char:EOLhyphen"/>haps they have not underſtood them effe<g ref="char:EOLhyphen"/>ctually, or rightly conſidered the mind of the Author therein; for had they ſo done, then would they not verily have ſpoken ſo much evil of them, as they have done, un<g ref="char:EOLhyphen"/>leſſe (as I cannot ſo think as yet) they did obſtinately hate God, and abhor all righ<g ref="char:EOLhyphen"/>teouſneſſe, peace and love, neither yet would they have impriſoned, not ſo ſhamefully ſlandered ſo many ſimple ſouls, which upon admonition from the deſtruction, given them in the <hi>Service of Love,</hi> have had an unfained deſire to re<g ref="char:EOLhyphen"/>pent and amend their lives, although ſome of them haply are, in certain points through ignorance or fear.</p>
+            </sp>
+            <sp>
+               <pb n="44" facs="tcp:170674:25"/>
+               <speaker>Countrey-man.</speaker>
+               <p>Wilt thou then take part with, and ju<g ref="char:EOLhyphen"/>ſtifie the Author and his Books, and ſo condemn our learned Preachers?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>I will neither take part with, nor yet juſtifie the Author, nor yet any of his Bookes, but will leave them to anſwer for themſelves; neither do I meddle with things therein, which are above my capa<g ref="char:EOLhyphen"/>city. Notwithſtanding, all what I finde therein written (or elſe where) that ad<g ref="char:EOLhyphen"/>vertiſeth me to repentance, godlineſs of life, obdience to God and Governours, love towards God and my neighbour, and peace towards all men, according to the Scriptures; that muſt I needs think well of. Nevertheleſs, if he or his Books be not able to anſwer for themſelves, ſo then will not I anſwer for them: neither will I before a Law-judge, condemn any, whether learned or unlearned, but leave that unto thoſe, unto whom judgement doth belong.</p>
+            </sp>
+            <sp>
+               <pb n="45" facs="tcp:170674:25"/>
+               <speaker>Countrey-man.</speaker>
+               <p>I cannot miſlike thy Anſwers, yet not<g ref="char:EOLhyphen"/>withſtanding, ſome may haply gather of ſuch like words, as thou haſt here ſpoken unto us, That the Author of thoſe afore<g ref="char:EOLhyphen"/>ſaid Books, with all you that are now tear<g ref="char:EOLhyphen"/>med of <hi>the Family of Love,</hi> go altogether about to put down that Religion which her Majeſty hath now ſet up and allowed, and to bring it to nought: And in ſo do<g ref="char:EOLhyphen"/>ing, foraſmuch as ſhe is chief Governeſs of the ſame Church, <hi>&amp;c.</hi> it may be imaged that ye are ſo againſt the State: yea and perhaps ſuch like matters, have been put either into her Majeſties head, or elſe into ſome of her honorable Counſellors heads: And thereupon it is come to paſſe, that you are by ſome of our learned Preachers, tearmed for <hi>Libertines;</hi> yet all this not<g ref="char:EOLhyphen"/>withſtanding, I will not give any raſh cre<g ref="char:EOLhyphen"/>dit or judgement therein, until I have firſt heard thee ſpeak of it.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>I give you moſt hearty thanks therefore: Then firſt of all I beſeech you, let me know
+<pb n="46" facs="tcp:170674:26"/>
+what you call the Religion that is ſet up, or at the leaſt wiſe willed ſo to be, by her Majeſty, and allowed: ſo ſhall I the bet<g ref="char:EOLhyphen"/>ter give you an anſwer therein, according to my ſimple skill.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>It is to preach the Goſpel plainly and ſincerely, out of Gods holy Spirit, that all people learned or unlearned, may ſo well by their life as by their Doctrine, under<g ref="char:EOLhyphen"/>ſtand the ſame to their endleſs com<g ref="char:EOLhyphen"/>fort and ſalvation; and ſo to expreſs a true belief in God the Father, and in Chriſt our Saviour, to expel all idolatry, to abandon and aboliſh all forreign pow<g ref="char:EOLhyphen"/>ers, to adminiſter the Sacraments and Ceremonies of the Church uniformly in their right Order: To obey the Queens Majeſty, and live under her Laws and hu<g ref="char:EOLhyphen"/>mane Ordinances, acknowledging her as chief Governeſs in all cauſes, <hi>&amp;c.</hi> here (under Chriſt) in this Realm of <hi>England</hi> and <hi>Ireland, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>This certainly is a good Religion, were
+<pb n="47" facs="tcp:170674:26"/>
+it once generally put in ure: notwithſtan<g ref="char:EOLhyphen"/>ding, whatſoever men liſt to imagine of us; that may they, we cannot let them: But hear me, and I will tell you, as it ſhall be found in the truth; Were all his Books of whom we ſpake, rightly conſidered of with indifferency, ſo ſhould they be found aſſiſtances in all, to this aforeſaid Religi<g ref="char:EOLhyphen"/>on, and not hinderances: For, did the Preachers firſt, and then the people, accor<g ref="char:EOLhyphen"/>ding to his writing, and admonition in <hi>the Service of Love, viz.</hi> repent them, and follow ſuch counſel as is expreſſed by him, in the ſame: ſo ſhould no doubt the Go<g ref="char:EOLhyphen"/>ſpel then be ſincerely preached, according to her Majeſties mind, and the true belief publiſhed to the ſalvation of many: All idolatry and forreign power, as well in<g ref="char:EOLhyphen"/>wardly as outwardly, expulſed and driven away: The Sacraments and Ceremonies of the Church ſhould then be rightly ad<g ref="char:EOLhyphen"/>miniſtred: The <hi>Queens</hi> Majeſty obeyed, not for fear, but rather out of love, and acknow<g ref="char:EOLhyphen"/>ledged as chief Governeſs in all cauſes, <hi>&amp;c.</hi> as is meet; And which is more, the Lords heavy wrath whereof he hath often war<g ref="char:EOLhyphen"/>ned us, in the Miniſtration of Love; and alas, which alſo I fear me is at hand, for our wickedneſs cauſe, ſhould then be
+<pb n="48" facs="tcp:170674:27"/>
+eaſily appeaſed. And then yet moreover, whereas many times it happeneth, that the Prince is taken away for ſins cauſe of the people, her Majeſty ſhould then reign proſperouſly amongſt us, in all thoſe her good enterprizes; and ſhould alſo live un<g ref="char:EOLhyphen"/>to a good old age; all diſcord ſhould then ceaſe and come to an end; and ſo we, in the Realm of <hi>England,</hi> ſhould live joyful<g ref="char:EOLhyphen"/>ly, in all tranquillity, godlineſs, obedience and love; and be ſafely protected of God and his holy Angels, from the danger of any adverſary worldly or ghoſtly: But to ſay, that we be <hi>Libertines,</hi> that is not ſo: and who ſo ſhall look rightly into <hi>the Ser<g ref="char:EOLhyphen"/>vice of Love,</hi> he ſhall well perceive, that therein is no liberty to ſin given or taught. We are indeed fraile, and full of infirmi<g ref="char:EOLhyphen"/>ties, and have all need of Gods mercy; therefore our deſire is, that we might ob<g ref="char:EOLhyphen"/>tain ſuch grace and power with God the Father, through our Lord Jeſus Chriſt, whereby we might ſo repent us of our ſins paſt, that we might henceforth leave off from our wicked ways, more and more take up our Croſſe on us againſt the ſin, dy even ſo daily with Chriſt, and ſo imitate him in death and life, until ſuch time as we become raiſed up again, with Jeſus
+<pb n="49" facs="tcp:170674:27"/>
+Chriſt in a new true life; for that we might by ſuch means eſcape, the horrible plagues and miſeries, which now in theſe laſt times, are in coming over all licentious <hi>Libertines,</hi> and unrepenting obſtinate ſin<g ref="char:EOLhyphen"/>ners: For other rejoycing have we not, then alone in the croſſe, death, blood<g ref="char:EOLhyphen"/>ſhedding, and reſurrection of our Savi<g ref="char:EOLhyphen"/>our Jeſus Chriſt. And as for the <hi>Liber<g ref="char:EOLhyphen"/>tines</hi> and who they be, I have ſufficiently expreſſed before in ſix notes. He that hath ears to hear, let him hear, and who liſts not, may chooſe.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>But yet, this one thing I know for a ſurety, that thou and thy company, are not only ſuſpected to be ſuperſtitious <hi>Pa<g ref="char:EOLhyphen"/>piſts;</hi> but alſo it is thought that this mi<g ref="char:EOLhyphen"/>niſtration called <hi>the Service of Love,</hi> is publiſhed forth to the end, to maintain all ſuperſtition and abuſe in the <hi>Roman</hi> Religion: and wiſt we two ſo much, then doubtleſs we would not once deal there<g ref="char:EOLhyphen"/>with, nor yet talk with thee any farther, wherefore I pray thee yet once again, that thou wouldſt for my further ſatisfying in this behalf, ſhew us thy mind therein, ere ever we do part hence.</p>
+            </sp>
+            <sp>
+               <pb n="50" facs="tcp:170674:28"/>
+               <speaker>Exile.</speaker>
+               <p>The truth is (ſo far forth as I can per<g ref="char:EOLhyphen"/>ceive) that the Author of thoſe Books, in his Miniſtration out of Love, doth neither maintain or allow any manner of Super<g ref="char:EOLhyphen"/>ſtition, frequented in the <hi>Roman</hi> or Popiſh Church; But he, indeed, ſeemeth to open and diſcloſe the firſt ground of the ſame Religion, and the ſignification of every thing, ſo well Sacraments as Ceremonies, frequented and allowed in the ſame Church, willing every one that ſhall hap to dwell, where he muſt live under the ſame Sacraments and Ceremonies, and where the ſame are by the Laws of the Land allowed and commanded, to obey the Rulers and their Laws, and for obedi<g ref="char:EOLhyphen"/>ence cauſe, not to rebel in any caſe againſt their Rulers, but rather to go to the Church where the ſame are adminiſtred; and there to mark only upon the ſignifica<g ref="char:EOLhyphen"/>tion of the ſame; and what a Chriſtian life and obedience to God and Governours, the ſame in their right ſignification, do ask and require of them.</p>
+               <p>And yet he acknowledgeth them no o<g ref="char:EOLhyphen"/>therwiſe,
+<pb n="51" facs="tcp:170674:28"/>
+but as Sacraments, Ceremonies, Signs, Images, Figures, or ſhaddows of good and holy things, <hi>&amp;c.</hi> But above all, he exhorteth all to the humble obedience, peaceable and Chriſtian life, which thoſe do figure forth: And as for us, I put you out of doubt, we do likewiſe utterly deteſt all ſuperſtitious Papiſtry; but we moſt chieflieſt do deſire, that the ſame true obe<g ref="char:EOLhyphen"/>dience and godly life (which is Chriſt Je<g ref="char:EOLhyphen"/>ſus) might increaſe it ſelf more and more, in us, and in many.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>That life indeed is the beſt, but why doth he call his miniſtration <hi>the Service of Love,</hi> and thoſe that take warning thereat, why are they termed <hi>the Family of Love?</hi> ſhew me thy underſtanding herein, be<g ref="char:EOLhyphen"/>cauſe ſuch a name ſeemeth to me, as alſo to many as yet, very ſtraying?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>I will tell you according to my ſimple underſtanding, and as I gather by ſuch writings of his, as I have read in <hi>the Ser<g ref="char:EOLhyphen"/>vice of Love,</hi> Foraſmuch as all the gene<g ref="char:EOLhyphen"/>rations
+<pb n="52" facs="tcp:170674:29"/>
+of men on earth, ſo well <hi>Jew</hi> as <hi>Gentile,</hi> Chriſtian as Heathen, Papiſt as Proteſtant, yea of what Religion ſoever, have now in theſe laſt horrible days, not only moſt grieviouſly tranſgreſſed Gods holy Commandements; but alſo (every one in his) is far away digreſſed, from the firſt ground whereon they were ſet: and are yet moreover (even with the old world, and with thoſe of <hi>Sodom</hi> and <hi>Go<g ref="char:EOLhyphen"/>morah</hi>) run into all licentiouſneſs and care<g ref="char:EOLhyphen"/>leſneſſe of life provoking thereby Gods juſt wrath and heavy indignation: So that of his juſtice, he might therefore worthily have deſtroyed us (like as in the days of <hi>Noah</hi>) even all the children of men. Yet notwithſtanding he hath now, as a graci<g ref="char:EOLhyphen"/>ous Father, and according to his wonted mercy, pittied the generations of men: And therefore hath once again, according to his promiſes, warned all people upon the earth, through this his miniſtration out of Love, to repent and turn, every one from his wicked ways, believe the Goſpel, become baptized, &amp; ſo be preſerved ere e<g ref="char:EOLhyphen"/>ver the great wo, miſery, plagues &amp; unlucky judgments fall ſuddainly &amp; unawares up<g ref="char:EOLhyphen"/>on all unrepenting, and unbelieving ſin<g ref="char:EOLhyphen"/>ners, and licentious Scripture-learned,
+<pb n="53" facs="tcp:170674:29"/>
+or Libertines, to their condemnation in the fire of hell: All theſe plagues (ſaith he) and many more are like to come ſhortly on us all, if we take ſcorn to be warned by theſe latter lovely admoniti<g ref="char:EOLhyphen"/>ons, <hi>&amp;c.</hi> which he termeth, A ſervice of miniſtration out of the Spirit of Love or of God, wherewith the man is ſerved or mi<g ref="char:EOLhyphen"/>niſtred unto, to his preſervation: &amp; there<g ref="char:EOLhyphen"/>fore he calls it oftentimes <hi>The Service of Love;</hi> Further, why he calleth all thoſe that repent and amend their waies, upon the admonition thereof <hi>the Family of Love</hi> is this, becauſe he thinks them meet to bear ſuch a high name, the whilſt, that be<g ref="char:EOLhyphen"/>ing ſo gratiouſly ſerved and warned there<g ref="char:EOLhyphen"/>by, they ſo deſire as Gods children, to love God as chief, and their neighbour as themſelves, to obey their Prince and Go<g ref="char:EOLhyphen"/>vernors, to live obediently under their Laws: as alſo to deal uprightly, brother<g ref="char:EOLhyphen"/>ly, and faithfully with all men in all love, teſtifying even ſo aright, and according to the truth, that they only are the true Chriſtians, which lead a Chriſtian life, and not the talkers thereof; And thus much concerning my underſtanding there<g ref="char:EOLhyphen"/>in.</p>
+            </sp>
+            <sp>
+               <pb n="54" facs="tcp:170674:30"/>
+               <speaker>Countrey-man.</speaker>
+               <p>But how cometh it to paſſe then (tell me) that you are now almoſt of all men, as well great as ſmall, yea rich as poor, but eſpecially of the learned Preachers, bruted forth and that moſt odiouſly; for the moſt deteſtable Sectaries or Hereticks, that ever reigned on the earth; yea, and as people not worthy to live in a Com<g ref="char:EOLhyphen"/>mon-wealth?</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>What be thoſe brutes wherewith we are ſo bruted? tell me, and I will anſwer you ſo near as I can according to truth.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>Theſe they are: Some ſay, you deny Chriſt, the Trinity, and the Lords prayer; others ſay, that you are <hi>Libertines,</hi> and lye one with anothers wife, deſiring to have all mens goods in common; likewiſe ſome ſay, you would have no Magiſtrates, and that you account whoredom, murder, poyſoning, <hi>&amp;c.</hi> to be no ſin: as likewiſe that you deny the reſurrection of the fleſh, and the immortality of the ſoul: Others ſay, you juſtifie your ſelves by your works without Chriſt, and that you condemn
+<pb n="55" facs="tcp:170674:30"/>
+the Scriptures, and would not have them uſed; as alſo that you ſay, you live with<g ref="char:EOLhyphen"/>out ſin: yea and ſome ſay, you are againſt the State. And moreover, that you will obey Turke, Pope, or any other of what Religion whatſoever, under whom you dwell: as likewiſe whatſoever you ſay, when you are commanded by a Magi<g ref="char:EOLhyphen"/>ſtrate, to render an account of your Faith or Religion, you uſe to diſſemble, and mean not the ſame that you ſay; with hundreds more, too much here to re<g ref="char:EOLhyphen"/>cite.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>O Almighty and moſt merciful Father, thou which alwaies ſheweſt mercy to ſuch as love Thee, and keep thy Comman<g ref="char:EOLhyphen"/>dements, thou knoweſt, our Religion, is on<g ref="char:EOLhyphen"/>ly to love Thee as chief, &amp; our neighbour as our ſelves, according to thy holy word: To obey our Governors, and to live under their Laws, not once calling in doubt, that this Church is now in ſubjection under heatheniſh Magiſtrates, which command the things that thou haſt forbidden. Look down O Lord we beſeech thee, and behold our miſery; let us not now be driven a<g ref="char:EOLhyphen"/>way from our dutiful obedience, which
+<pb n="56" facs="tcp:170674:31"/>
+we owe to thee, and to theſe thy Magi<g ref="char:EOLhyphen"/>ſtrates and Governors, for any manner of fear, tyranny, and falſe brutes, of ſuch as live not under thy Law. Alas, Countrey-man, alaſſe! we are indeed groſsly abuſed, by ſome that teach men diſobedience to Magiſtrates and Laws, falſly citing that piece of Scripture, <hi>It is better to obey God then men:</hi> by that, drawing the peoples hearts from obedience to fantaſies: and which of all is moſt dangerous, when even their own company, are by the high pow<g ref="char:EOLhyphen"/>ers dealt withal herein, then their teachers ſay of us, Thoſe be they that will have no Governors, <hi>&amp;c.</hi> Thus grievouſly ſlande<g ref="char:EOLhyphen"/>red are we, as thou haſt ſaid: So while they ſet all men to wonder at us, for the thing wherein they are guilty themſelves, and not we; they have (the more is the pitty) ſufficient opportunity, to perform their malice, and to eſtabliſh their pur<g ref="char:EOLhyphen"/>poſe; which God grant that the Magiſtrates may at laſt, though now very late, diſcern throughly. Notwithſtanding, if theſe their falſe brutes, ſhould be credited of the Ma<g ref="char:EOLhyphen"/>giſtrate, (as God forbid) then alas we were without remedy, or hope of juſtice at their hands, and muſt be condemned, yea, although we were never heard.</p>
+            </sp>
+            <sp>
+               <pb n="57" facs="tcp:170674:31"/>
+               <speaker>Countrey-man.</speaker>
+               <p>Be of good chear, <hi>Exile,</hi> and let no ſuch things aſtoniſh thee; for be ſure thou ſhalt finde the Magiſtrates, not only wiſe, ho<g ref="char:EOLhyphen"/>norable, and learned; but alſo ſuch as will gratiouſly hear every ones cauſe with juſtice, and reform in time that which is amiſs: Wherefore I pray thee yet further, ſhew me the cauſe where out ſuch brutes are raiſed and proceed againſt you.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>It cometh to paſſe hereout, foraſmuch as many in reading the Books of <hi>H. N.</hi> (out of which Books we alſo are charged to have gathered Hereſies) will take upon them contrary to all juſtice and equity, to judge, determine, and expound our mind and underſtanding therein, according to their ſiniſter conceiving of the matter. And thereupon have not only thrown us into dungeons and priſons, to our great loſſe and hinderance; but alſo have pub<g ref="char:EOLhyphen"/>liſhed forth ſuch like innumerable lyes, and moſt horrible defamations againſt us; reporting the ſame notwithſtainding to
+<pb n="58" facs="tcp:170674:32"/>
+the people, and that out of their preaching places, for an infallible truth, whereas many of them, never as yet talked with a<g ref="char:EOLhyphen"/>ny of us, whereby they might firſt know what Hereſies we hold, and have gathered out of the ſaid Books, and ſo are theſe their unjuſt brutes and ſlanders, believed of ma<g ref="char:EOLhyphen"/>ny, and publiſhed abroad for an infallible truth; and no marvel: for (will you ſee the devil) who would have thought I pray you, or ſuppoſed, that the learned Prea<g ref="char:EOLhyphen"/>chers of theſe days, could have ſpoken forth (whether it were out of report, of of malicious envy) ſo many horrible lyes, and blaſphemies againſt ſo harmleſs a people, which never as yet gave them, not any man elſe any cauſe thereto.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>Yet haſt thou not fully ſatisfied me, as what manner of people thoſe be that thus ſhamefully uſe to blaſphem and perſecute you, wherefore I pray thee tell me that.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Mark my words and I ſhall tell you a great and dangerous matter, and alſo ſatiſ<g ref="char:EOLhyphen"/>fie
+<pb n="59" facs="tcp:170674:32"/>
+your demand, what they be that now chiefly ſeek thus injuriouſly to deal with us: Underſtand, there are by her Majeſty and her good Laws, appointed for every ſpiritual promotion, and office within her dominion, choſen men to perform all that function, as Biſhops, Deans, Parſons, Vicars, Prebendaries, Preachers, &amp;c. Beſides which Officers and ſpiritual Go<g ref="char:EOLhyphen"/>vernors, there are crept in alſo, ſome by the favour of one man, and ſome by ano<g ref="char:EOLhyphen"/>ther, certain others, which are ſcattered almoſt the land through, which alſo have gotten great ſtipends, out of mens Benevo<g ref="char:EOLhyphen"/>lence: And theſe preach without either or<g ref="char:EOLhyphen"/>der from her Majeſty, or any publick Au<g ref="char:EOLhyphen"/>thority; yea, &amp; ſuppoſed to be to the num<g ref="char:EOLhyphen"/>ber of four or five thouſand: &amp; note more<g ref="char:EOLhyphen"/>over, theſe pay no Tenths nor Subſidies, and yet impoveriſh them that ſhould. Alſo, they cry out againſt al ſpiritual Offices and Officers, although they be found meet for that function by learned men, and there<g ref="char:EOLhyphen"/>to have authority by Laws and Statutes confirmed: They ſay notwithſtanding &amp; teach others to call them dumb-dogs, and ſleeping-hounds, with ſuch like names: which thing to redreſs, her Majeſty hath granted Commiſſion: But wot you what,
+<pb n="60" facs="tcp:170674:33"/>
+thoſe for whoſe reformation the ſame was graunted, have ſo prettily handled the matter, that they either by ſubſtitution of Commiſſion, or elſe by ſome other trick, have now to deal in the Commiſſion themſelves by their own hands, and ſo compel men to yield to theſe dangerous attempts, by whom alſo now we are thus ſtrangely handled.</p>
+               <p>Now ſee, <hi>Countrey-man,</hi> whether this be not a ſtrange Metamorphoſis, when the offenders againſt all Laws, are made Judges over the true obſervers of all good Laws, and reverence<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of all Authority: let all wiſe, honorable, and courteous hearts conſider adviſedly hereof; for it is high time.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>But yet, although they be not able to recompence you touching ſuch injuries, as you have ſuſtained at their hands, may not they all notwithſtanding poſſibly re<g ref="char:EOLhyphen"/>pent them thereof and amend; and ſo you and they henceforth joyn together in one heart of godly love, <hi>viz.</hi> To love God a<g ref="char:EOLhyphen"/>bove all, and your neighbour as your ſelves: to obey the Queen, and Gover<g ref="char:EOLhyphen"/>nors,
+<pb n="61" facs="tcp:170674:33"/>
+and to live under her <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Or<g ref="char:EOLhyphen"/>dinances, as likewiſe to uſe all reaſonable dealing and friendlineſs, amongſt all men, like as becometh true Chriſtians to do, according to the Scriptures, and <hi>Service of Love?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Yea verily; the poſſibility thereof is of the Lord to all, and among all that ſtand good willing thereunto, and can believe; And that it might even ſo come to paſs we all do, and will pray unto the Lord both night and day: upon our knees.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man,</speaker>
+               <p>Yet one thing more I have to demand of thee, which is this: For aſmuch as our learned Preachers, yea, and eſpecially, thoſe which have done you ſuch injuries as aforeſaid, do in words ad<g ref="char:EOLhyphen"/>vertiſe the people to love God and their neighbours, obey the Queen and her Go<g ref="char:EOLhyphen"/>vernours and to live under their Laws; as alſo to lead an upright life like as <hi>H.N.</hi> doth admoniſh all the generations on earth, in the ſame <hi>Service of Love<g ref="char:punc">▪</g>
+                  </hi> What
+<pb n="62" facs="tcp:170674:34"/>
+then is the difference between them and you<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Look a little into the matter with me, I beſeech thee: There are very many found in theſe days, that believe of God and of Chriſt, but yet very few that endea<g ref="char:EOLhyphen"/>vour themſelves, through true repentance and newneſs of life, under the obedience of Gods holy Word, as is aforeſaid, for to believe rightly in God and in Chriſt, that is, ſo as God and Chriſt might dwell in them, and they in him: Lo hereby are the children of God known from the children of the devil: and this is the very diffe<g ref="char:EOLhyphen"/>rence between them and us. And there<g ref="char:EOLhyphen"/>fore the holy Law of God or Commande<g ref="char:EOLhyphen"/>ments, which they teach to be obſerved upon pain of damnation; and yet have not any luſt thereunto themſelves; and then again in the end, confeſs it to be impoſſible for any man to accompliſh or live the ſame; That do we with all our hearts deſire to obſerve and keep, belie<g ref="char:EOLhyphen"/>ving the poſſibility thereof to conſiſt only in the Lord our God; and that the ac<g ref="char:EOLhyphen"/>compliſhment of the ſame, ſhall in time
+<pb n="63" facs="tcp:170674:34"/>
+come to paſſe in us, and all that believe, by the might of God the Father, through Jeſus Chriſt. Conſider adviſedly thereof, all you that be wiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man,</speaker>
+               <p>Now I do perceive that the difference betwixt them and you, is not much to ſpeak of, and in few words this: what they ſay the ſame, you deſire to do: and this is not any more then is betwixt hea<g ref="char:EOLhyphen"/>ven and earth, light and darkneſs, fleſh and ſpirit, <hi>&amp;c. Selah<g ref="char:punc">▪</g>
+                  </hi> And I think thou haſt ſpoken all this out of the ground of three heart without either diſſimulation or guile.</p>
+            </sp>
+            <sp>
+               <speaker>Exile.</speaker>
+               <p>Yea verily, and even ſo the Lord in<g ref="char:EOLhyphen"/>creaſe his love in me, and in many, <hi>Amen.</hi> Neither have I done this without cauſe, as ſome both honorable and worſhipful with others in her Majeſties Court know<g ref="char:EOLhyphen"/>eth: But like as I have ſuſtained many great and grievous injuries: ſo have I alſo, according to Gods holy word, expreſſed in the Miniſtration of Love, humbled my ſelf in all ſtillneſs and patience, under the
+<pb n="64" facs="tcp:170674:35"/>
+obedience of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Jeſus Chriſt, and h<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Croſſe<g ref="char:punc">▪</g> And now again hath the ſame love conſtrained hee; partly for the clea<g ref="char:EOLhyphen"/>ring of my ſelf, againſt ſo many odious and intolerable brutes and defamations, that have been ſpread forth againſt me to my utter undoing, and alſo partly for the ſatisfying of others which are brought there through into great miſtruſt fulneſſe of us and our Religion, to write this lit<g ref="char:EOLhyphen"/>tle devi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> will to any one of the ignorant reſiſters of the Love of God, &amp; his mercy towards them, neither yet to<g ref="char:EOLhyphen"/>wards any one of any adverſaries; O no, but I rather wiſh unto them, as alſo to all peo<g ref="char:EOLhyphen"/>ple on earth, gra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſo to humble them<g ref="char:EOLhyphen"/>ſelves, under the obedience of the word of God the Father, which is miniſtred out of the love of Jeſus Chriſt now in theſe laſ days, that they with us, and we with them, through true repentance, in one conſent of godly love and one obedience might <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtones be coupled, and faſt buil<g ref="char:EOLhyphen"/>ded up in Jeſus Chriſt, to one holy Ta<g ref="char:EOLhyphen"/>bernacle, Temple, Family, Habitation or houſe of Love or of God: for aſmuch as God is Love, and ſo henceforth to be no more but one God, one Faith, one Bap<g ref="char:EOLhyphen"/>tiſm, one Chriſt, one Lord, one Saviour in
+<pb n="65" facs="tcp:170674:35"/>
+us all, over us all<g ref="char:punc">▪</g> and amongſt us all, in all love, <hi>Amen.</hi> To whom with the Holy Ghoſt, be all laud and thankſgiving for ever and ever, <hi>Amen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Countrey-man.</speaker>
+               <p>The God of love &amp; peace make us al meet to be of ſuch an holy Family, <hi>Amen.</hi> In ve<g ref="char:EOLhyphen"/>ry deed <hi>Exile,</hi> now am I fully perſwaded and do find it in the truth, that the obedi<g ref="char:EOLhyphen"/>ence to the word of God the Father, through the miniſtration of the Love of Jeſus Chriſt, which conſequently requi<g ref="char:EOLhyphen"/>reth all dutiful obedience to Magiſtrates and Governors, is the very way to attain to the right ſpirit of wiſdom, or key of the holy underſtanding without which ſpirit, the holy Scriptures have alwaies been, and ſo ſhall ſtill remain for ever, as a faſt ſealed Book, which no man amongſt all the wiſe of the world, or Scripture-learned, could ever open or unlock; forasmuch as it apper<g ref="char:EOLhyphen"/>taineth to the Lamb Chriſt only, that meek-minded ſpirit, faſt grounded in Love, to open the ſame; But what ſhall I ſay more? Alas <hi>Exile</hi> alas, that ever it ſhould be found true, or recorded in writing, e<g ref="char:EOLhyphen"/>ſpecially in theſe days of our moſt graci<g ref="char:EOLhyphen"/>ous
+<pb n="66" facs="tcp:170674:36"/>
+Queen <hi>Elizabeth,</hi> that upright Chri<g ref="char:EOLhyphen"/>ſtians, and true-hearted ſubjects, ſhould ſuffer ſuch cruel perſecution. Oh alas wo is me, who ſhall give to mine eys tears ſuf<g ref="char:EOLhyphen"/>ficient, that I might weep enough for the miſeries cauſe, which I now ſee coming ſwiftly over the face of the whole earth<g ref="char:punc">▪</g> Alas, how will it now go with all thoſe <hi>Libertines,</hi> and licentious Scripture-lear<g ref="char:EOLhyphen"/>ned, which have out of their good think<g ref="char:EOLhyphen"/>ing knowledge, and without the ſpirit of the Lord, thus ſeduced the ignorant, abu<g ref="char:EOLhyphen"/>ſed her Majeſties Laws and Ordinances, blaſphemed the Love of God and her Mi<g ref="char:EOLhyphen"/>niſters, and perſecuted ſimple and true hearted ſubjects, which have not reſiſted them: Now ſhall they be found happy which have done well, and whoſe days are ended on the earth; for they ſhall not ſee the miſery, which for the wickedneſſes cauſe that preſently do abound, muſt fall over all the children of men. Alas, whi<g ref="char:EOLhyphen"/>ther then ſhall all the children of men fly, that they might eſcape all thoſe horri<g ref="char:EOLhyphen"/>ble plagues? Well, we are right ſorry for thee and thy company; and yet much more ſorry for thoſe which have brought this trouble upon you; for we do well perceive, that you have been injured, ſlan<g ref="char:EOLhyphen"/>dered,
+<pb n="67" facs="tcp:170674:36"/>
+and perſecuted overmuch. God give them hearts to repent, that have wrought you this injury, and give you all in the mean time patience to bear the ſame: God be merciful and gracious to thee and thy company, which now are ſpoken evil of, and give to the perſecuted and Exiled ſuch favour, in the eyes of her gracious Majeſty, that they may in ſome conveni<g ref="char:EOLhyphen"/>ent time, have liberty, to walk forth free<g ref="char:EOLhyphen"/>ly unmoleſted; and that your orderly and good life, may ſhew that you love God and his Laws.</p>
+               <p>That they all may at ſome convenient time have liberty, to walk forth freely, unmoleſted; and your orderly and good life may ſhew that you love God and his Lawes, and that your ſubjection may te<g ref="char:EOLhyphen"/>ſtifie, that you live under her Laws obedi<g ref="char:EOLhyphen"/>ently, not diſturbing any one about Reli<g ref="char:EOLhyphen"/>gion, but walking your ſelves uprightly, and brotherly among all men, as becom<g ref="char:EOLhyphen"/>meth the Goſpel.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170674:37"/>
+            <pb facs="tcp:170674:37"/>
+         </div>
+      </body>
+   </text>
+</TEI>
